@@ -15,4 +15,8 @@ public class InvoiceItemDto {
 
     private Double importe;
 
+    private String DataInservible;
+
+
+
 }
